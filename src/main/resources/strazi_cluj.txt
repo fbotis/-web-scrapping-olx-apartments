@@ -1,0 +1,1121 @@
+Piata 1848,MARASTI
+Piata 1907,MARASTI
+1 Decembrie 1918,GRIGORESCU
+21 Decembrie 1989,SEMICENTRU
+21 Decembrie 1989,MARASTI
+16 Februarie,GRUIA
+Piata 1 Mai,BULGARIA
+13 Septembrie,MARASTI
+11 Octombrie,GRUIA
+Piata 14 lulie,GRIGORESCU
+A E Baconsky,FAGET
+Piata Abator,SEMICENTRU
+Abrudului,MARASTI
+Acad David Prodan,GRUIA
+Actorului,GHEORGHENI
+Adjudului,DAMBUROTUND
+Adrian Marina,BUNAZIUA
+Ady Endre,ANDREIMURESANU
+Afinului,FAGET
+Agricultorilor,MANASTUR
+Agronomilor,MANASTUR
+Aiudului,SOMESENI
+Alba lulia,ANDREIMURESANU
+Albac,GHEORGHENI
+Albert Einstein,GHEORGHENI
+Albiei,BULGARIA
+Alecu Russo,ZORILORSUD
+Alesd,BULGARIA
+Alexandre Dumas,MANASTUR
+Alexandru Bohaitel,ANDREIMURESANU
+Alexandru Borza,SEMICENTRU
+Alexandru Ciurea,CENTRU
+Alexandru D Xenopol,ANDREIMURESANU
+Alexandru Davila,GRIGORESCU
+Alexandru Donici,GRIGORESCU
+Alexandru Graur,BUNAZIUA
+Alexandru Kiritescu,IRIS
+Alexandru Lapedatu,IRIS
+Alexandru Macedonski,BECAS
+Alexandru Odobescu,DAMBUROTUND
+Alexandru Rosca,BORHANCI
+Alexandru Sahia,IRIS
+Alexandru Vaida Voevod,GHEORGHENI
+Alexandru Vlahuta,GRIGORESCU
+Almasului,MANASTUR
+Alunului,GRIGORESCU
+Alverna,BUNAZIUA
+Ametistului,DAMBUROTUND
+Amos Francu,ANDREIMURESANU
+Amza Pellea,GHEORGHENI
+Ana Aslan,ZORILORSUD
+Ana lpatescu,GHEORGHENI
+Anatole France,ANDREIMURESANU
+Andrei Muresanu,ANDREIMURESANU
+Andrei Saguna,CENTRU
+Anghel Saligny,MARASTI
+Anina,MARASTI
+Antim Ivireanu,BORHANCI
+Anton BacaIbasa,IRIS
+Anton Pann,SEMICENTRU
+Antonin Ciolan,FAGET
+Antonio Gaudi,BECAS
+Antonio Vivaldi,MAGURA
+Apahida,SOMESENI
+Arad,BULGARIA
+Aramei,GRUIA
+Arany Janos,CENTRU
+Arges,CENTRU
+Argintuiui,DAMBUROTUND
+Ariesului,GHEORGHENI
+Ariniior,MANASTURNORD
+Aron Densusianu,GHEORGHENI
+Aron Florian,IRIS
+Aron Pumnul,BUNAZIUA
+Artelor,GHEORGHENI
+Artarului,BECAS
+Atelierului,DAMBUROTUND
+Augustin Bena,SOMESENI
+Augustin Bunea,GRUIA
+Augustin Major,DAMBUROTUND
+Aurel Ciupe,MANASTUR
+Aurel Gurghianu,ZORILORSUD
+Aurel Suciu,GHEORGHENI
+Aurel Vlaicu,MARASTI
+Aurorei,ANDREIMURESANU
+Aviator Badescu,ANDREIMURESANU
+Aviatorilor,SOMESENI
+Avjator Darjan,SOMESENI
+Piata Avram lancu,CENTRU
+Avram lancu,CENTRU
+Axente Sever,GHEORGHENI
+Azuga,GHEORGHENI
+Piata Baba Novac,CENTRU
+Baba Novac,CENTRU
+Calea Baciului,DAMBUROTUND
+Badea Cartan,DAMBUROTUND
+Baia Mare,MANASTUR
+Baladei,GHEORGHENI
+Balazs Ferenc,MAGURA
+Banatuluj,SOMESENI
+Banilor,MARASTI
+Banul Udrea,DAMBUROTUND
+Barbu Lautaru,SOMESENI
+Barbu Stefanescu Delavrancea,ANDREIMURESANU
+Bartok Bela,GRIGORESCU
+Basarabia,MANASTURSUD
+Bathori Istvan,ZORILORSUD
+Batozei,MANASTUR
+Bazna,SOMESENI
+Baii,SOMESENI
+Baisoara,GHEORGHENI
+Baita,GHEORGHENI
+Balea,MANASTUR
+Baltii,GHEORGHENI
+Barc I,SOMESENI
+Barc,IISOMESENI
+Barc,IIISOMESENI
+Barsei,MARASTI
+Colonia Becas,BECAS
+Becas,BECAS
+Beclean,DAMBUROTUND
+Bega,INTRELACURI
+BeiusuIui,SOMESENI
+Belgrad,DAMBUROTUND
+Berariei,GRADINILEMANASTUR
+Bethien Gabor,DAMBUROTUND
+Bibliotecii,MARASTI
+Bicaz,BORHANCI
+Bihorului,GRIGORESCU
+Biro Vencel,BORHANCI
+Bisericii Ortodoxe,CENTRU
+Bisericii St Toma,MARASTI
+Bistritei,GHEORGHENI
+Bizusa,GHEORGHENI
+Blajului,BULGARIA
+Blanarilor,IRIS
+Bobalnei,BULGARIA
+Bocskai Istvan,BORHANCI
+Bogdan Petriceicu Hasdeu,SEMICENTRU
+Bogdan Voda,MARASTI
+Boloni Farkas Sandor,MAGURA
+Bolyai Janos,CENTRU
+Colonia Borhanci,BORHANCI
+Borhanciului,BORHANCI
+Borsec,GHEORGHENI
+Borsa,MANASTUR
+Bradului,GRUIA
+Branului,SOMESENI
+Brassai Sarnuel,CENTRU
+Brasov,ANDREIMURESANU
+Brates,MANASTURNORD
+Bradutului,ANDREIMURESANU
+Branduselor,DAMBUROTUND
+Colonia Breaza,IRIS
+Breaza,DAMBUROTUND
+Brigadierilor,SOMESENI
+Brizei,GRUIA
+Brosteni,MAGURA
+Brutarilor,GRADINILEMANASTUR
+Bucegi,MANASTUR
+Bucium,MANASTUR
+Bucovina,MANASTURSUD
+Bucura,GRIGORESCU
+Bucuresti,MARASTI
+Budai Nagy Antal,BULGARIA
+Colonia Budunus,SOMESENI
+Buftea,MARASTI
+Buhusi,GRUIA
+Bujorului,IRIS
+Bulgarilor,BULGARIA
+Bumbesti,DAMBUROTUND
+Buna Ziua,BUNAZIUA
+Burebista,SEMICENTRU
+Busuiocului,DAMBUROTUND
+Busteni,GHEORGHENI
+Buzau,GRIGORESCU
+C A Rosetti,GRUIA
+Caisului,ZORILOR
+Caius lacob,MANASTURSUD
+Calistrat Hogas,GHEORGHENI
+Callatis,SEMICENTRU
+Calvaria,MANASTURNORD
+Cameliei,MAGURA
+Camil Petrescu,BUNAZIUA
+Cantonului,SOMESENI
+Caracal,SEMICENTRU
+Caraiman,ZORILOR
+Caransebes,SOMESENI
+Cardinal Iuliu Hossu,CENTRU
+Carierei,FAGET
+Carlo Goldoni,MAGURA
+Carmen Silva,BUNAZIUA
+Carol Davila,MANASTURSUD
+Carpati,GRUIA
+Carpenului,FAGET
+Castanilor,ZORILOR
+Caii Ferate,GRUIA
+Calan,MARASTI
+Calarasilor,GRUIA
+Calimanesti,MARASTI
+Calin Alexandru Nemes,ZORILORSUD
+Calugareni,IRIS
+Campeni,GRUIA
+Campina,BULGARIA
+Campul Painii,BULGARIA
+Campului,MANASTUR
+Caprioarei,DAMBUROTUND
+CapsuniIor,GHEORGHENI
+Caramidarilor,IRIS
+Carbunarilor,GHEORGHENI
+Catinei,IRIS
+Ceahlau,SEMICENTRU
+Cedrului,GRUIA
+CeferistiIor,IRIS
+Parc Central “Simion Barnutiu”,CENTRU
+Cepei,MARASTI
+Cerbului,FAGET
+Cernauti,MANASTUR
+Cernavoda,MARASTI
+Cernei,MARASTI
+Cetatii,GRUIA
+Cetinei,FAGET
+Cezar Baltag,MANASTURSUD
+Cezar Bolliac,BORHANCI
+Cezar Petrescu,MANASTURSUD
+Charles Dickens,MAGURA
+Charles Gounod,MAGURA
+Cheile Baciului,BACIU
+Chinteni,IRIS
+Cholnoky Jeno,GHEORGHENI
+Cibinului,MARASTI
+Ciobanului,MANASTUR
+Ciocanului,SOMESENI
+Ciocarliei,MARASTI
+Cioplea,MANASTUR
+CIopoteilor,IRIS
+Ciprian Porumbescu,SEMICENTRU
+CiresiIor,ZORILOR
+Cisnadie,BORHANCI
+Cismigiu,CENTRU
+Ciucas,MANASTUR
+Ciucea,IRIS
+Clabucet,MANASTUR
+Clinicilor,CENTRU
+Closca,CENTRU
+Cobzarilor,GRADINILEMANASTUR
+Cocorilor,DAMBUROTUND
+Codlea,DAMBUROTUND
+Codru Dragusanu,IRIS
+Codrului,DAMBUROTUND
+Cojocnei,MARASTI
+Colibita,ZORILOR
+Colinei,COLINA
+Colonia Faget,FAGET
+Cometei,ZORILOR
+Conductorilor,GRUIA
+Constantin Brailoiu,DAMBUROTUND
+Constantin Brancoveanu,GHEORGHENI
+Constantin Brancusi,GHEORGHENI
+Constantin C Diculescu,BORHANCI
+Constantin Daicoviciu,CENTRU
+Constantin Dobrogeanu Gherea,CENTRU
+Constantin Mille,IRIS
+Constantin Noica,ZORILORSUD
+Constantin Nottara,ANDREIMURESANU
+Constantin Silvestri,FAGET
+Constanta,SEMICENTRU
+Copacilor,SOMESENI
+Corneliu Coposu,DAMBUROTUND
+Corneliu Medrea,IRIS
+Cornului,SOMESENI
+Cosasilor,BULGARIA
+Cosminului,IRIS
+Costache Negri,BUNAZIUA
+Costache Negruzzi,MANASTUR
+Cotita,SEMICENTRU
+Cozia,MAGURA
+Cpt Grigore Ignat,SOMESENI
+Craiova,GRUIA
+Craitelor,BECASBORHANCI
+Crangului,ANDREIMURESANU
+Crinului,MARASTI
+Crisan,GRUIA
+Crisului,INTRELACURI
+Crizantemelor,GHEORGHENI
+Croitorilor,SEMICENTRU
+Cucului,DAMBUROTUND
+Curcubeului,ZORILOR
+Cuza Voda,SEMICENTRU
+D D Rosca,FAGET
+Dacia,SEMICENTRU
+Daliei,MAGURA
+Daniil P Barceanu,SEMICENTRU
+David Ferenc,SEMICENTRU
+Dambovitei,MARASTI
+Dambul Rotund,DAMBUROTUND
+Dealul Fanatelor,IRIS
+Dealului,DAMBUROTUND
+Decebal,SEMICENTRU
+Dejului,MARASTI
+Dem Radulescu,GHEORGHENI
+Depoului,DAMBUROTUND
+Detunata,GHEORGHENI
+Deva,GRADINILEMANASTUR
+Calea Dezmirului,SOMESENI
+Diaconul Coresi,GHEORGHENI
+Diamantului,DAMBUROTUND
+Dianei,FAGET
+Dimitri Ivanovici Mendeleev,GRIGORESCU
+Dimitrie Bolintineanu,ANDREIMURESANU
+Dimitrie Cantemir,ANDREIMURESANU
+Dimitrie Comsa,MARASTI
+Dimitrie Gusti,MANASTUR
+Dimitrie Onciul,BORHANCI
+Dimitrie Paciurea,BUNAZIUA
+Dina Cocea,GHEORGHENIEST
+Dinicu Golescu,MANASTUR
+Dinu Lipatti,BUNAZIUA
+Dionisie Roman,INTRELACURI
+Dobrogei,SOMESENI
+Doinei,DAMBUROTUND
+Donath,GRIGORESCU
+Dornei,GRUIA
+Calea Dorobantilor,SEMICENTRU
+Calea Dorobantilor,MARASTI
+Dorului,DAMBUROTUND
+Dostoievski,ANDREIMURESANU
+Dragos Voda,DAMBUROTUND
+Drapelului,ANDREIMURESANU
+Dropiei,DAMBUROTUND
+Duiliu Zamfirescu,ZORILORSUD
+Dumbrava Rosie,IRIS
+Dumitru Braharu,FAGET
+Dumitru Georgescu-Kiriac,SOMESENI
+Dunarii,INTRELACURI
+Ecaterina Teodoroiu,DAMBUROTUND
+Ecaterina Varga,MARASTI
+Eclipsei,BECASBORHANCI
+Edgar Alan Poe,MAGURA
+Edgar Quinet,MANASTURSUD
+Eftimie Murgu,ANDREIMURESANU
+Elicei,SOMESENI
+Emerson,IRIS
+Emil A Dandea,BORHANCI
+Emil Cioran,MANASTUR
+Emil Garleanu,DAMBUROTUND
+Emil Isac,SEMICENTRU
+Emil Petrovici,SEMICENTRU
+Emil Racovita,GRUIA
+Emile Zola,CENTRU
+Emmanuel de Martonne,CENTRU
+Episcop loan Bob,CENTRU
+Episcop Marton Aron,ZORILORSUD
+Episcop Nicolae Ivan,GHEORGHENI
+Erich Bergel,BORHANCI
+Erkel Ferenc,BUNAZIUA
+Ernst Hemingway,MAGURA
+Eroilor,CENTRU
+Eta Boeriu,BUNAZIUA
+Eufrosin Poteca,DAMBUROTUND
+Eugen Brote,ANDREIMURESANU
+Eugen lonesco,ZORILORSUD
+Eugen Lovinescu,ZORILORSUD
+Fabricii,MARASTI
+Fabricii,BULGARIA
+Fabricii de Caramida,DAMBUROTUND
+Fabricii de Chibrituri,DAMBUROTUND
+Fabricii de Zahar,MARASTI
+Fadrusz Janos,BUNAZIUA
+Fagului,BUNAZIUA
+Fat Frumos,DAMBUROTUND
+Fagarasului,DAMBUROTUND
+Fagetului,FAGET
+Fanatelor,MAGURA
+Fantanele,GRIGORESCU
+Fanului,SOMESENI
+Fericirii,GRUIA
+Ferigii,ZORILORSUD
+Ficusului,ZORILORSUD
+Fierului,GRUIA
+Firiza,MANASTUR
+Calea Floresti,MANASTUR
+Florilor,IRIS
+Fluierasului,ANDREIMURESANU
+Fluturilor,MARASTI
+Foișorului,FAGET
+Fortaretei,CENTRU
+Franklin Delano Roosevelt,CENTRU
+Franz Liszt,GRIGORESCU
+Franz Schubert,MAGURA
+Frasinului,MANASTURNORD
+Piata Fraternitatii,GHEORGHENI
+Fragutei,FAGET
+Frederic Chopin,MAGURA
+Frederic Joliot Curie,CENTRU
+Freziei,IRIS
+Frumoasa,SOMESENI
+Frunzisului,MANASTUR
+Frunzisului,ZORILOR
+Fundatura,SOMESENI
+G V Bibescu,ZORILORSUD
+Gaal Gabor,CENTRU
+Gala Galaction,GHEORGHENI
+Galaction Liviu Munteanu,FAGET
+Galati,INTRELACURI
+Galaxiei,ANDREIMURESANU
+Galileo Galilei,GRUIA
+Garoafelor,BULGARIA
+Gavril Muzicescu,GRIGORESCU
+Galbenelelor,MAGURA
+Galbiori,MANASTURSUD
+Garbau,MANASTUR
+Piata Garii,SEMICENTRU
+Garii,IRIS
+Gentianei,MAGURA
+Georg Friedrich Hegel,SOPOR
+George Bacovia,ZORILORSUD
+George Baritiu,CENTRU
+George Bernard Shaw,MAGURA
+George Calinescu,ZORILORSUD
+George Cosbuc,SEMICENTRU
+George Enescu,GRIGORESCU
+George Gordon Byron,IRIS
+George Stephenson,IRIS
+George Toparceanu,GHEORGHENIEST
+Georges Clemenceau,SEMICENTRU
+Gheorghe Asachi,IRIS
+Gheorghe Dima,ZORILOR
+Gheorghe Doja,ANDREIMURESANU
+Gheorghe Lazar,SEMICENTRU
+Gheorghe Pop de Basești,ANDREIMURESANU
+Gheorghe Sincai,CENTRU
+Gheorghe Sion,DAMBUROTUND
+Gheorgheni,SOPOR
+Gherase Dendrino,FAGET
+Gherasim Domide,MARASTI
+Ghimesului,SOMESENI
+Ghindei,DAMBUROTUND/LOMBULUI
+Ghioceilor,BULGARIA
+Giacomo Puccini,MAGURA
+Gioachino Rossini,MAGURA
+Giordano Bruno,DAMBUROTUND
+Giuseppe Garibaldi,GRIGORESCU
+Giuseppe Verdi,MAGURA
+Gladiolelor,DAMBUROTUND
+Godeanu,GHEORGHENI
+Gogu Constantinescu,BUNAZIUA
+Gorunului,MARASTI
+Gospodarilor,MARASTI
+Govora,MANASTUR
+G-ral Dragalina,GRIGORESCU
+G-ral Eremia Grigorescu,GRIGORESCU
+G-ral Gheorghe Pomut,GRIGORESCU
+G-ral Traian Mosoiu,SEMICENTRU
+Grapei,GRADINILEMANASTUR
+Graurilor,DAMBUROTUND
+Gradinarilor,MARASTI
+Graului,DAMBUROTUND/LOMBULUI
+Grigore Alexandrescu,MANASTUR
+Grigore Antipa,MANASTURSUD
+Grigore Benetato,FAGET
+Grigore Moisil,BUNAZIUA
+Grigore Ureche,GRIGORESCU
+Grivitei,BULGARIA
+Gruia,GRUIA
+Gurghiu,MANASTUR
+Gutinului,SEMICENTRU
+Haiducului,GRUIA
+Hailer Karoly,FAGET
+Hajnal Imre,BUNAZIUA
+Hameiului,COLINA
+Harghita,INTRELACURI
+Hariclea Darclee,SOMESENI
+Hateg,GRIGORESCU
+Harletului,GHEORGHENI
+Hector Berlioz,MAGURA
+Heinrich Heine,GRIGORESCU
+Heltai Gaspar,GHEORGHENI
+Henri Barbusse,MARASTI
+Henri Coanda,SOMESENI
+Herculane,GHEORGHENI
+Hermann Oberth,CENTRU
+Colonia Hodai,MAGURA
+Hodai,IRIS
+Honore de Balzac,GRIGORESCU
+Horea,SEMICENTRU
+Piata Horea Closca si Crisan,SEMICENTRU
+Horezu,MAGURA
+Horticultorilor,ANDREIMURESANU
+Huedinului,MANASTURSUD
+Hunedoarei,SOMESENI
+I C Bratianu,CENTRU23
+Iacob Bologa,GRIGORESCU
+Ialomita,MARASTI
+Iancu de Hunedoara,GRIGORESCU
+Iancu Jianu,DAMBUROTUND/LOMBULUI
+Iasomiei,IRIS
+Iasilor,SEMICENTRU
+Iazului,MARASTI
+Iederei,ZORILORSUD
+Ierbii,BULGARIA
+Iezer,MANASTUR
+Ilarie Chendi,GRUIA
+Ileana Cosanzeana,DAMBUROTUND/LOMBULUI
+Ilie Macelaru,GRADINILEMANASTUR
+Inau,GHEORGHENI
+Splaiul Independentei,SEMICENTRU
+Inocentiu Micu Klein,CENTRU
+Inului,MARASTI
+Ioan Alexandru,MARASTI
+Ioan Buteanu,BORHANCI
+Ioan Goia,SOMESENI
+Ioan Iacob,GRIGORESCU
+Ioan Lupas,MAGURA
+Ioan Oarga,INTRELACURI
+Ioan Pop de Cluj,SOMESENI
+Ioan Ratiu,CENTRU
+Ioan Zaicu,BECAS
+Ion Slavici,DAMBUROTUND
+Piata Ion Agarbiceanu,ANDREIMURESANU
+Ion Andreescu,GRIGORESCU
+Ion Breazu,BORHANCI
+Ion Budai Deleanu,ANDREIMURESANU
+Ion Creanga,SEMICENTRU
+Ion Ghica,GRIGORESCU
+Ion Heliade Radulescu,GRIGORESCU
+Ion Ionescu de la Brad,SOMESENI
+Ion Luca Caragiale,GRUIA
+Ion Mester,MANASTUR
+Ion Mihalache,MANASTURSUD
+Ion Mincu,SEMICENTRU
+Ion Neculce,GRIGORESCU
+Ion Negoitescu,GHEORGHENI
+Ion Pop Reteganu,ANDREIMURESANU
+Ion Popescu Voitesti,SEMICENTRU
+Ion Vidu,SEMICENTRU
+Ion Viteazul,MĂRĂŞTI
+Ionel Perlea,BORHANCI
+Ionel Teodoreanu,DAMBUROTUND
+Iosif Sava,BUNAZIUA
+Iosif Vulcan,ANDREIMURESANU
+Iris,IRIS
+Isaac Newton,GRIGORESCU
+Iugoslaviei,GHEORGHENI
+Iuliu Coroianu,GRUIA
+Iuliu Hatieganu,SEMICENTRU
+Iuliu Maniu,CENTRU
+Iuliu Merca,ZORILORSUD
+Iuliu Micsa,MANASTURSUD
+Iuliu Moldovan,ZORILOR
+Izei,MARASTI
+Izlazului,MANASTUR
+Izvorului,DAMBUROTUND
+In jurul Iacului,SEMICENTRU
+Infratirii,SOMESENI
+Intre Lacuri,INTRELACURI
+Invatatorului,CENTRU
+Jack London,MAGURA
+Jan Hus,IRIS
+Janos Zsigmond,ZORILORSUD
+Janovics Jeno,FAGET
+Jean Jacques Rousseau,GRIGORESCU
+Jean Jaures,DAMBUROTUND
+Jiului,INTRELACURI
+Johann Sebastian Bach,MAGURA
+Johann Strauss (tatal),MAGURA
+Johannes Brahms,MAGURA
+Johannes Guttenberg,COLINA
+Jokai Mor,FAGET
+Jorj Voicu,SOPOR
+Josika Samuel,GHEORGHENI
+Jozsef Attila,ANDREIMURESANU
+Jules Verne,BORHANCI
+Jupiter,ZORILOR
+Karacsony Beno,MAGURA
+Piata Karl Liebknecht,IRIS
+Kelemen Lajos,BUNAZIUA
+Kos Karoly,FAGET
+Kovacs Dezso,ANDREIMURESANU
+Kovari Laszlo,GRUIA
+Lacul Rosu,MARASTI
+Lacului,GRIGORESCU
+Lalelelor,SEMICENTRU
+Laterala,MARASTI
+Lacatusului,GRUIA
+Lacrimioarelor,ANDREIMURESANU
+Lapusului,MANASTUR
+Lastunilor,DAMBUROTUND
+Lemnului,GRUIA
+Leonard Mociulski,DAMBUROTUND
+Leonardo Da Vinci,MANASTUR
+Leonida Neamtu,FAGET
+Libelulei,GRADINILEMANASTUR
+Liliacului,IRIS
+Linistei,SOMESENI
+Lipova,IRIS
+Livezeni,DAMBUROTUND
+Livezii,MARASTI
+Liviu Rebreanu,GHEORGHENI
+Liviu Rusu,FAGET
+Locomotivei,DAMBUROTUND
+Lombului,DAMBUROTUND/LOMBULUI
+Lotrului,MARASTI
+Louis Pasteur,ZORILOR
+Luceafarului,ZORILOR
+Lucernei,SOMESENI
+Lucia Sturdza Bulandra,GHEORGHENI
+Piata Lucian Blaga,CENTRU
+Lucian Matis,ZORILORSUD
+Ludovic Spiess,MAGURA
+Ludus,BORHANCI
+Ludwig van Beethoven,GHEORGHENI
+Luminii,ZORILORSUD
+Luminisului,FAGET
+Luncii,BUNAZIUA
+Lunetei,ANDREIMURESANU
+Lunii,ZORILORSUD
+Lutoasa,ANDREIMURESANU
+Lya Hubic,MAGURA
+Macului,GRIGORESCU
+Madach Imre,GHEORGHENI
+Magaziei,GRUIA
+Magnoliei,ZORILOR
+Makkai Sandor,MAGURA
+Mamaia,CENTRU
+Marin Preda,BUNAZIUA
+Marin Sorescu,BUNAZIUA
+Maramuresului,DAMBUROTUND
+Margaretelor,MAGURA
+Marghitei,MAGURA
+Marginasa,SEMICENTRU
+Marian Papahagi,BUNAZIUA
+MarkTwain,MAGURA
+Martin Lajos,MAGURA
+Martin Opitz,IRIS
+Matei Basarab,ANDREIMURESANU
+Matei Corvin,CENTRU
+Matei Millo,GRIGORESCU
+Mateiu Caragiale,SOMESENI
+Matyas Matyas,BUNAZIUA
+Macesului,BECAS
+Macinului,ANDREIMURESANU
+Malinului,ANDREIMURESANU
+Calea Manastur,GRADINILEMANASTUR
+Marasesti,MARASTI
+Piata Marasti,MARASTI
+Margaritarelor,BULGARIA
+Margaului,BULGARIA
+Marisel,ZORILORSUD
+Marului,SEMICENTRU
+Mecanicilor,GRUIA
+Medias,DAMBUROTUND
+Mehedinti,MANASTUR
+Memorandumului,CENTRU30
+Mercur,BORHANCI
+Meseriilor,MARASTI
+Meses,GHEORGHENI
+Mestecenilor,SEMICENTRU
+Mesterul Manole,INTRELACURI
+Metalului,DAMBUROTUND
+Meteor,ZORILOR
+Meziad,MANASTUR
+Micus,MANASTUR
+Mierlei,DAMBUROTUND
+Migdalului,GRUIA
+Mihai Eminescu,SEMICENTRU
+Mihai Romanul,BUNAZIUA
+Mihai Veliciu,GHEORGHENI
+Piata Mihai Viteazu,CENTRU
+Mihail Kogalniceanu,CENTRU
+Mihail Sadoveanu,GHEORGHENI
+Mihail Sadoveanu,GHEORGHENI
+Mihail Sebastian,BORHANCI
+Miko Imre,ZORILOR
+Mikszath Kalman,ANDREIMURESANU
+Milcov,GRIGORESCU
+Milton Lehrer,SEMICENTRU
+Minerilor,SEMICENTRU
+Mioritei,GRADINILEMANASTUR
+Miraslau,GRIGORESCU
+Mircea cel Batran,MANASTURSUD
+Mircea Eliade,ZORILORSUD
+Mircea Zaciu,BUNAZIUA
+Miron Costin,GRUIA
+Mistralului,GRUIA
+Mogosoaia,MANASTUR
+Moise Nicoara,ANDREIMURESANU
+Moldoveanu,MANASTUR
+Moldovei,GRADINILEMANASTUR
+Molidului,GRUIA
+Moll Elemer,MAGURA
+Molnar Piuaru,MARASTI
+Morarilor,DAMBUROTUND/LOMBULUI
+Moricz Zsigmond,MANASTURSUD
+Morii,SOMESENI
+Mos Ion Roata,SOMESENI
+Calea Motilor,SEMICENTRU
+Movilei,MANASTUR
+Mugurilor,DAMBUROTUND
+Muncii,BULGARIA
+Muncitorilor,GHEORGHENI
+Munteniei,DAMBUROTUND
+Muresului,INTRELACURI
+Muscel,ANDREIMURESANU
+Piata Muzeului,CENTRU
+Muzeului Etnografic,DAMBUROTUND
+Muzicii,ZORILORSUD
+Napoca,CENTRU
+Narciselor,IRIS
+Nadasel,IRIS
+Nasaud,MARASTI
+Navodari,MARASTI
+Neagra,SEMICENTRU
+Nectarului,MANASTURSUD
+Negoiu,MANASTUR
+Neptun,BECASBORHANCI
+NiccoloPaganini,MAGURA
+Nichita Stanescu,ZORILORSUD
+Nicolae Balcescu,SEMICENTRU
+Nicolae Cajal,ZORILORSUD
+Nicolae Colan,BUNAZIUA
+Nicolae Corches,BUNAZIUA
+Nicolae Cristea,MARASTI
+Nicolae Draganu,BUNAZIUA
+Nicolae Labis,ZORILORSUD
+Nicolae lorga,ANDREIMURESANU
+Nicolae Pascaly,GHEORGHENI
+Nicolae Patrascu,GRIGORESCU
+Nicolae Romanul,IRIS
+Nicolae Steinhardt,ZORILORSUD
+Nicolae Teclu,DAMBUROTUND
+Nicolae Titulescu,GHEORGHENI
+Nicolae Tonitza,BUNAZIUA
+Nicolaus Copernicus,CENTRU
+Nirajului,INTRELACURI
+Nordului,BECAS
+Nucului,BUNAZIUA
+Nuferilor,CENTRU
+Oasului,IRIS
+Oasului Fundatura,DAMBUROTUND
+Observatorului,ZORILOR
+Octav Bancila,SOMESENI
+Octavian Fodor,GHEORGHENI
+Octavian Goga,GRIGORESCU
+Octavian Petrovici,SEMICENTRU
+Octavian Prie,BORHANCI
+Odobesti,DAMBUROTUND
+Oituz,MARASTI
+Olanesti,MARASTI
+Oleandrului,IRIS
+Olteniei,DAMBUROTUND
+Oltului,INTRELACURI
+Onisifor Ghibu,MARASTI
+Onixului,DAMBUROTUND
+Oradiei,DAMBUROTUND/LOMBULUI
+Oravita,SEMICENTRU
+Orastiei,SOMESENI
+Orhideei,BECASBORHANCI
+Orzului,DAMBUROTUND/LOMBULUI
+Ospatariei,GRADINILEMANASTUR
+Ostasilor,SOMESENI
+Otetului,GRADINILEMANASTUR
+Ovidiu,IRIS
+Ovidiu Iuliu Moldovan,BUNAZIUA
+Pablo Picasso,ZORILORSUD
+Padin,MANASTUR
+Padis,GHEORGHENI
+Pajistei,ZORILOR
+Pakei Lajos,BUNAZIUA
+Palaghia Rosu,SOMESENI
+Paltinului,BUNAZIUA
+Panait Istrati,ZORILORSUD
+Pandurilor,GRADINILEMANASTUR
+Panselutelor,IRIS
+Papai Pariz Ferenc,MARASTI
+Papiu Ilarian,DAMBUROTUND
+Parasutistilor,SOMESENI
+Parang,MANASTUR
+Parcul Feroviarilor,SEMICENTRU
+Paris,SEMICENTRU
+Partizanilor,DAMBUROTUND
+Pata Rat,SOMESENI
+Pataki Samuel,FAGET
+Patriciu Barbu,MARASTI
+Paul Chinezu,CENTRU
+Paul loan,MANASTURNORD
+Pavel Dan,MANASTURSUD
+Pavel Rosca,SEMICENTRU
+Padurii,ZORILOR
+Paltinis,ANDREIMURESANU
+Paraului,MANASTUR
+Pastorului,SEMICENTRU
+Peana,MANASTUR
+Perlei,DAMBUROTUND
+Pescarilor,GRUIA
+Petofi Sandor,MARASTI
+Petrache Poienaru,DAMBUROTUND
+Petre Dulfu,FAGET
+Petre Ispirescu,SEMICENTRU
+Petru Cretia,BORHANCI
+Petru Maior,CENTRU
+Petru P Metes,BUNAZIUA
+Petuniei,GRIGORESCU
+Piatra Craiului,DAMBUROTUND
+Piersicului,DAMBUROTUND
+Pietro Mascagni,MAGURA
+Piezisa,SEMICENTRU
+Pintea Viteazul,SOMESENI
+Pintenului,DAMBUROTUND
+Pinului,BUNAZIUA
+Piotr Ilici Ceaikovski,MAGURA
+Pitesti,MARASTI
+Plaiuri,ANDREIMURESANU
+Planoarelor,SOMESENI
+Plevnei,BULGARIA
+Ploiesti,SEMICENTRU
+Plopilor,MANASTUR
+Pluto,BECAS
+Poienarilor,DAMBUROTUND
+Poienitei,FAGET
+Pomet,MAGURA
+Pompiliu Teodor,BUNAZIUA
+Ponorului,ANDREIMURESANU
+Portelanului,IRIS
+Portile de Fier,MANASTURNORD
+Porumbeilor,MARASTI
+Porumbelelor,FAGET
+Porumbului,DAMBUROTUND
+Posada,CENTRU
+Postavarul,IRIS
+Potaissa,CENTRU
+Povarnisului,GRUIA
+Predeal,ANDREIMURESANU
+Prieteniei,SOMESENI
+Primaverii,MANASTUR
+Pripor,SOMESENI
+Prislop,ANDREIMURESANU
+Privelistii,ZORILOR
+Privighetorii,DAMBUROTUND
+Prof Gheorghe Marinescu,SEMICENTRU
+prof I T Stan,GHEORGHENI
+Prof Nicolae Margineanu,FAGET
+Prof Tudor Ciortea,GRIGORESCU
+Progresului,MARASTI
+Prunilor,ZORILOR
+Puietilor,IRIS
+Putna,MANASTUR
+Radu Gyr,MANASTUR
+Radu Stanca,ZORILORSUD
+Radu Tudoran,SOMESENI
+Rahovei,GRUIA
+Rakoczi Ferenc,IIBECAS
+Rapsodiei,ZORILORSUD
+Rarau,GRIGORESCU
+Radauti,GRUIA
+Randunicilor,SOMESENI
+Rasaritului,MARASTI
+Rasinari,GHEORGHENI
+Raului,SOMESENI
+Ravasului,MANASTUR
+Razboieni,DAMBUROTUND
+Regele Ferdinand,CENTRU
+Reghin,DAMBUROTUND
+Regina Maria,BORHANCI
+Remenyik Sandor,BORHANCI
+Remetea,ZORILOR
+Rene Descartes,ZORILOR
+Republicii,SEMICENTRU
+Retezat,MANASTUR
+Robert Koch,ZORILOR
+Robert Schumann,MAGURA
+Rodnei,SOMESENI
+Romanitei,IRIS
+Romul Ladea,BECAS
+Romulus Vuia,GRUIA
+Roska Marton,MAGURA
+Rosiori,MARASTI
+Rovine,MARASTI
+Rozelor,SOMESENI
+Rozmarinului,FAGET
+Rubin Patitia,MARASTI
+Rubinului,DAMBUROTUND
+Rucar,MANASTUR
+Sabin Dragoi,FAGET
+Safirului,DAMBUROTUND
+Salcamului,GRADINILEMANASTUR
+Salviei,MANASTURSUD
+Samuil Micu,CENTRU
+Sanatoriului,DAMBUROTUND
+Sarmisegetuza,INTRELACURI
+Saturn,ANDREIMURESANU
+Salajului,DAMBUROTUND
+Salciilor,GRADINILEMANASTUR
+Sannicoara,SOMESENI
+Sanzienelor,MAGURA
+Sapatorilor,GHEORGHENI
+Scarilor,GRUIA
+Scarisoara,GHEORGHENI
+Scortarilor,MARASTI
+Scurta,SEMICENTRU
+Sebastian Bornemisa,MANASTURSUD
+Sebesului,DAMBUROTUND
+Secarei,DAMBUROTUND
+Seceratorilor,GHEORGHENI
+Semenicului,GHEORGHENI
+Senina,DAMBUROTUND
+Septimiu Albini,GHEORGHENI
+Septimiu Muresan,DAMBUROTUND
+Sergiu Celibidache,ZORILORSUD
+Sextil Puscariu,CENTRU
+Sfanta Vineri,DAMBUROTUND
+Drum Sfantul loan,COLINA
+Sibiului,DAMBUROTUND
+Sighisoarei,ZORILOR
+Sigismund Toduta,GRIGORESCU
+Silvaniei,IRIS
+Silvia Popovici,GHEORGHENI
+Silviu Dragomir,ANDREIMURESANU
+Simeria,DAMBUROTUND
+Simion Balint,DAMBUROTUND
+Simion Musat,MARASTI
+Simion Stefan,ANDREIMURESANU
+Sinaia,GRIGORESCU
+Sindicatelor,CENTRU
+Siretului,INTRELACURI
+Sitarilor,DAMBUROTUND
+Slatina,INTRELACURI
+Slanic,GHEORGHENI
+Smaraldului,DAMBUROTUND
+Smaranda Braescu,SOPOR
+Smardan,BORHANCI
+Snagov,GHEORGHENI
+Soarelui,DAMBUROTUND
+Sobarilor,IRIS
+Calea Someseni,SOMESENI
+Someseni Bai,SOMESENI
+Somesului,MARASTI
+Colonia Sopor,SOPOR
+Soporului,SOPOR
+Spatarul Milescu,DAMBUROTUND
+Sperantei,BORHANCI
+Spicului,DAMBUROTUND
+Spinoasa,DAMBUROTUND
+Spiru Haret,IRIS
+Spitalului,GRUIA
+Sportului,SOMESENI
+Sputnic,ZORILOR
+Stadionului,SEMICENTRU
+Stanescu Popa,DAMBUROTUND/LOMBULUI
+Stanisoara,IRIS
+Stanjeneilor,IRIS
+Stefan Cicio Pop,MANASTURSUD
+Stejarului,ANDREIMURESANU
+Stelutei,DAMBUROTUND
+Straja,SOMESENI
+Stramba,GRADINILEMANASTUR
+Streiului,INTRELACURI
+Strungarilor,DAMBUROTUND
+Stundentilor,CENTRU
+Suceava,GRUIA
+Sunatoarei,SEMICENTRU
+Szabedi Laszlo,MAGURA
+Szamoskőzy Istvan,GHEORGHENI
+Szervatiusz Jeno,GHEORGHENI
+Scolii,DAMBUROTUND/LOMBULUI
+Serpuitoare,MANASTUR
+Sesului,MANASTUR
+Simleului,IRIS
+SoimuIui,ZORILOR
+Stefan Augustin Doinas,ZORILORSUD
+Piata Stefan cel Mare,CENTRU
+Stefan Luchian,BUNAZIUA
+Stefan Ludwig Roth,GRUIA
+Stefan Metes,MANASTURSUD
+Stefan Mora,GRIGORESCU
+Stefan Octavian losif,CENTRU
+Stefan Pascu,IRIS
+Stefan Ruha,BORHANCI
+Taberei,MANASTURNORD
+Tache lonescu,GHEORGHENI
+Tamasi Aron,MANASTURSUD
+Tarnita,GRADINILEMANASTUR
+Tatra,ZORILOR
+Tazlau,MANASTUR
+Tabacarilor,IRIS
+Taietura Turcului,GRIGORESCU
+Taietura Turcului,DAMBUROTUND
+Tarnavelor,INTRELACURI
+Tarnaveni,BORHANCI
+Tasnad,MANASTURNORD
+Tecuci,GRIGORESCU
+Teilor,BULGARIA
+Teius,BORHANCI
+Teleorman,MARASTI
+Teo Peter,ZORILORSUD
+Teodor Mihali,MARASTI
+Theodor Aman,GRUIA
+Theodor Capidan,BUNAZIUA
+Theodor Pallady,BORHANCI
+Tiberiu Brediceanu,GRUIA
+Timisoarei,DAMBUROTUND
+Timisului,SOMESENI
+Piata Timotei Cipariu,SEMICENTRU
+Tipografiei,CENTRU
+Titu Maiorescu,ANDREIMURESANU
+Toamnei,FAGET
+Toma Caragiu,GHEORGHENI
+Tony Bulandra,GHEORGHENI
+Topazului,DAMBUROTUND
+Toplita,BORHANCI
+Tractoristilor,SOMESENI
+Traian,SEMICENTRU
+Traian Grozavescu,GRIGORESCU
+Traian Vuia,SOMESENI
+Trandafirilor,DAMBUROTUND
+Transilvaniei,DAMBUROTUND
+Trascaului,ZORILOR
+Trambitasului,GRUIA
+Treboniu Laurian,IRIS
+Triajului,DAMBUROTUND
+Tribunul Andreica,DAMBUROTUND
+Tribunul Vladutiu,BULGARIA
+Trifoiului,BUNAZIUA
+Tristan Tzara,BUNAZIUA
+TrotosuIui,MARASTI
+Tudor Arghezi,ZORILORSUD
+Tudor Musatescu,BUNAZIUA
+Tudor Vianu,BORHANCI
+Tudor Vladimirescu,GRUIA
+Tufanelelor,BECASBORHANCI
+Tufei,GRIGORESCU
+Tulcea,INTRELACURI
+Tulghesului,SOMESENI
+Turnu Rosu,SOMESENI
+Turnu Severin,SOMESENI
+Turnului,SOMESENI
+Turturicii,ZORILOR
+Calea Turzii,SEMICENTRU
+Calea Turzii,ZORILOR
+Calea Turzii,BUNAZIUA
+Tyukodi Antal,GRUIA
+Tebei,GRIGORESCU
+Tiblesului,GRIGORESCU
+Uliului,GRIGORESCU
+Ulmului,FAGET
+Piata Unirii,CENTRU
+Unirii,GHEORGHENI
+Universitatii,CENTRU
+Uranus,BECASBORHANCI
+UrcusuIui,MANASTUR
+Uzinei Electrice,GRADINILEMANASTUR
+Colonia Valea Calda,BACIU
+Valea Chintaului,IRIS
+Colonia Valea Fanatelor,MAGURA
+Valea Fanatelor,MAGURA
+Valea Garbaului,COLINA
+Valea Seaca,DAMBUROTUND/LOMBULUI
+Valeriu Bologa,GHEORGHENI
+Valeriu Braniste,SEMICENTRU
+Valter Maracineanu,DAMBUROTUND
+Vasile Alecsandri,CENTRU
+Vasile Carlova,GRUIA
+Vasile Conta,BUNAZIUA
+Vasile Goldis,CENTRU
+Vasile Lucaciu,IRIS
+Vasile Lupu,GHEORGHENI
+Vasile Parvan,ANDREIMURESANU
+Vasile Stoica,ZORILORSUD
+Vasile Velican,MANASTURSUD
+Vaslui,MARASTI
+Valeni,GHEORGHENI
+Vanatorului,GRUIA
+Vantului,GRUIA
+Venus,GHEORGHENI
+Veseliei,BORHANCI
+Veteranilor,GRIGORESCU
+Victor Babes,CENTRU
+Victor Deleu,CENTRU
+Victor Eftimiu,MANASTURSUD
+Victor Felea,MANASTURSUD
+Victor Hugo,ANDREIMURESANU
+Victor Papilian,ZORILORSUD
+Vidraru,MANASTUR
+Vidrei,BULGARIA
+Viile Dambul Rotund,DAMBUROTUND/LOMBULUI
+Viile Nadasel,DAMBUROTUND
+Viilor,ZORILOR
+Violetelor,BECASBORHANCI
+Viorelelor,BULGARIA
+Virgil Fulicea,CENTRU
+Virgil Onitiu,GRIGORESCU
+Visinilor,DAMBUROTUND
+Vlad Mugur,FAGET
+Vlad Tepes,SOMESENI
+Vladeasa,DAMBUROTUND
+Voievodul Gelu,BORHANCI
+Voievodul Glad,BORHANCI
+Voievodul Menumorut,BORHANCI
+Voineasa,IRIS
+Voltaire,SEMICENTRU
+Voronet,MAGURA
+Vrancea,DAMBUROTUND
+Vrabiilor,SEMICENTRU
+Vulpii,DAMBUROTUND
+Vultureni,IRIS
+Vulturului,BULGARIA
+W A Mozart,BUNAZIUA
+Wolfgang J Goethe,BUNAZIUA
+Zaharia Barsan,ANDREIMURESANU
+Zaharia Carcalechi,GHEORGHENI
+Zaharia Stancu,BUNAZIUA
+Zalaului,IRIS
+Zambilei,GHEORGHENI
+Zarandului,GRUIA
+Zanelor,DAMBUROTUND
+Zborului,SOMESENI
+Zefirului,GRUIA
+Zizinului,MARASTI
+ZmeurisuIui,FAGET
+Zorilor,ZORILOR
+Zrinyi Miklos,ANDREIMURESANU
