@@ -1,0 +1,13 @@
+*.iml
+.idea
+.DS_Store
+target/
+.settings/
+.project
+.classpath
+agp-integration-tests/.surefire-*
+agp-integration-tests/items-to-be-deleted.txt
+.mvn/timing.properties
+platform-home
+.java-version
+
