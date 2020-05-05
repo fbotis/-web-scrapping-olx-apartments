@@ -1,4 +1,4 @@
-import apart.scrapping.common.ProxyHttpClient;
+import olx.analytics.common.http.ProxyHttpClient;
 import apart.scrapping.olx.dao.model.ApartamentOlx;
 import com.google.gson.Gson;
 import org.w3c.dom.Document;

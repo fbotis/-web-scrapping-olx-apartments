@@ -6,10 +6,10 @@
 
 
     <xsl:template match="/html">
-        <xsl:variable name="id" select="//div[@id='offerbottombar']/ul/li//strong/text()[3]"/>
+        <xsl:variable name="id" select="//div[@id='offerbottombar']/ul/li[3]//strong/text()"/>
         <xsl:variable name="titlu" select="//div[@class='offer-titlebox']/h1/text()"/>
 
-        <xsl:variable name="oras" select="//div[@id='cityFieldGray']/span[1]/text()"/>
+        <xsl:variable name="locatie" select="//address/p/text()"/>
         <xsl:variable name="judet" select="//div[@id='cityFieldGray']/span[2]/text()"/>
 
         <xsl:variable name="pret" select="//div[@class='pricelabel'][1]/strong[1]/text()"/>
@@ -29,8 +29,8 @@
         <xsl:variable name="oferitDe"
                       select="//ul[@class='offer-details']//span[@class='offer-details__name']/text()[contains(.,'Oferit')]/../../strong/text()"/>
 
-        <xsl:variable name="vizualizari" select="//div[@id='offerbottombar']/ul/li//strong/text()[2]"/>
-        <xsl:variable name="publicatLa" select="//div[@id='offerbottombar']/ul/li//strong/text()[1]"/>
+        <xsl:variable name="vizualizari" select="//div[@id='offerbottombar']/ul/li[2]//strong/text()"/>
+        <xsl:variable name="publicatLa" select="//div[@id='offerbottombar']/ul/li[1]//strong/text()"/>
 
 
         <!--Multiple parts should be combined in json-->
@@ -41,24 +41,16 @@
         {
         "id":<xsl:value-of select="normalize-space($id)"/>,
         "titlu":"<xsl:value-of select="normalize-space(translate($titlu, '\&quot;', ''))"/>",
-        "oras":"<xsl:value-of select="normalize-space(translate($oras,'\&quot;', ''))"/>",
-        "judet":"<xsl:value-of select="normalize-space(translate($judet,'\&quot;', ''))"/>",
+        "locatie":"<xsl:value-of select="normalize-space(translate($locatie,'\&quot;', ''))"/>",
         "pret":<xsl:value-of select="normalize-space(translate(translate($pret,'€', ''),' ',''))"/>,
         "compartimentare":"<xsl:value-of select="normalize-space($compartimentare)"/>",
-        <xsl:if test="$suprafata">
-            "suprafata":<xsl:value-of select="normalize-space(translate($suprafata,'m²', ''))"/>,
-        </xsl:if>
+        <xsl:if test="$suprafata">"suprafata":<xsl:value-of select="normalize-space(translate($suprafata,'m²', ''))"/>,</xsl:if>
         "anConstructie":"<xsl:value-of select="normalize-space($anConstructie)"/>",
         "etaj":"<xsl:value-of select="normalize-space($etaj)"/>",
         "oferitDe":"<xsl:value-of select="normalize-space($oferitDe)"/>",
         "vizualizari":<xsl:value-of select="normalize-space($vizualizari)"/>,
-        "publicatLa":<xsl:value-of select="normalize-space($publicatLa)"/>,
-        "descriere":<xsl:for-each select="$descriereParts">
-                            <xsl:value-of select="normalize-space(.)"/>
-                    </xsl:for-each>,
-        "poze":[<xsl:for-each select="$descriereParts">
-                        <xsl:value-of select="normalize-space(.)"/>,
-                </xsl:for-each>,""]
-        }
+        "publicatLa":"<xsl:value-of select="normalize-space($publicatLa)"/>",
+        "descriere":"<xsl:for-each select="$descriereParts"><xsl:value-of select="normalize-space(.)"/></xsl:for-each>"
+        "poze":[<xsl:for-each select="$poze">"<xsl:value-of select="normalize-space(.)"/>",</xsl:for-each>""]
     </xsl:template>
 </xsl:stylesheet>

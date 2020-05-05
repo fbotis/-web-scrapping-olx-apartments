@@ -1,4 +1,4 @@
-package apart.scrapping.common;
+package olx.analytics.common.http;
 
 import org.apache.http.HttpHost;
 import org.apache.http.HttpResponse;
@@ -21,6 +21,7 @@ import java.util.concurrent.TimeUnit;
 public class ProxyHttpClient {
 
 	private static final long TIME_TO_WAIT_FOR_PROXY_AVAILABLE_MS = 10000L;
+	public static final String OLX_ANALYTICS_PROXIES_TXT = "olx_analytics/proxies.txt";
 
 	private final Logger log = LoggerFactory.getLogger(getClass());
 
@@ -38,7 +39,7 @@ public class ProxyHttpClient {
 		this.maxProxyFailuresBeforeRemove = maxProxyFailuresBeforeRemove;
 		this.proxyClients = new LinkedList<>();
 		this.random = new Random();
-		Files.lines(Paths.get(Thread.currentThread().getContextClassLoader().getResource(("common/proxies.txt")).getPath()))
+		Files.lines(Paths.get(Thread.currentThread().getContextClassLoader().getResource(OLX_ANALYTICS_PROXIES_TXT).getPath()))
 				.filter(line -> line.split(":").length > 1)
 				.forEach(line -> {
 					String[] ipPort = line.trim().split(":");
