@@ -10,7 +10,6 @@ public class Places {
 
 	public static void main(String[] args) throws InterruptedException, ApiException, IOException {
 		GeoApiContext geoApiContext = new GeoApiContext.Builder()
-				.apiKey("AIzaSyCGG6qLt0-hhLsPpmoJ0pGHfYZTcFvAP6c")
 				.build();
 
 		FindPlaceFromTextRequest req = PlacesApi.findPlaceFromText(geoApiContext, "Horea, Cluj Napoca", FindPlaceFromTextRequest.InputType.TEXT_QUERY);
